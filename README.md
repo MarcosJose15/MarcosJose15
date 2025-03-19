@@ -94,6 +94,7 @@ Minha formação combina profundidade técnica e visão prática, com formação
 <br/>
 <br/>
 
+
 ### 📊 Estatísticas
 
 <p>
@@ -111,5 +112,4 @@ Minha formação combina profundidade técnica e visão prática, com formação
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjose15&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
 </p>
