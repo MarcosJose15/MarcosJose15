@@ -8,11 +8,11 @@ Minha formação combina profundidade técnica e visão prática, com formação
 
 
 <p align="left">
-    <a href="https://github.com/MarcosJose15?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/marcos-ferreira-silva/">
             <img 
                 alt="Meu perfil no linkedin" 
                 title="Meu perfil no linkedin" 
-                src="[https://custom-icon-badges.demolab.com/badge/-linkedin%20-blue?style=for-the-badge&logoColor=white&logo=repo](https://www.linkedin.com/in/marcos-ferreira-silva/)"
+                src="https://custom-icon-badges.demolab.com/badge/-linkedin%20-blue?style=for-the-badge&logoColor=white&logo=repo"
             />
     <a href="https://github.com/MarcosJose15?tab=repositories&sort=stargazers">
         <img 
