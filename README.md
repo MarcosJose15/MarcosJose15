@@ -12,7 +12,7 @@ Minha formação combina profundidade técnica e visão prática, com formação
             <img 
                 alt="Meu perfil no linkedin" 
                 title="Meu perfil no linkedin" 
-                src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
+                src="https://custom-icon-badges.demolab.com/badge/-linkedin%20-blue?style=for-the-badge&logoColor=white&logo=repo
                 "
             />
     <a href="https://github.com/MarcosJose15?tab=repositories&sort=stargazers">
