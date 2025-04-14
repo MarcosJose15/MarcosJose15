@@ -2,9 +2,7 @@
 
 **`Analista de sitemas`**
 
-"Sou Marcos Ferreira, um Analista de Dados com experiência diversificada no setor de tecnologia da informação. Ao longo da minha carreira, tenho contribuído com projetos de grande impacto em instituições renomadas, como o TRE-PE e o TJ-PE, onde atuei em áreas como modelagem de bancos de dados, desenvolvimento de sistemas e suporte técnico. Além disso, compartilho meu conhecimento como professor no Senac Recife, ministrando disciplinas voltadas para TI e Redes.
-
-Minha formação combina profundidade técnica e visão prática, com formação acadêmica em Engenharia da Computação e Análise e Desenvolvimento de Sistemas. Possuo especializações que abrangem desde linguagens de programação como Python e SQL, até ferramentas avançadas como Power BI e metodologias ágeis (Scrum). Paralelamente, desenvolvi projetos de destaque, incluindo o desenvolvimento de um sistema PWA mobile no programa de residência Porto Digital."
+"Sou Marcos José, formado em Análise e Desenvolvimento de Sistemas e possuo experiência no mercado. Meu objetivo é colaborar com soluções tecnológicas que façam a diferença e contribuam para o crescimento de projetos, que impactem positivamente as pessoas e tornem suas vidas mais práticas."
 
 
 <p align="left">
