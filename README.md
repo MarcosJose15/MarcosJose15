@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marcos José
 
-**`Analista de sitemas`**
+**`Analista de sistemas`**
 
 "Sou Marcos José, formado em Análise e Desenvolvimento de Sistemas e possuo experiência no mercado. Meu objetivo é colaborar com soluções tecnológicas que façam a diferença e contribuam para o crescimento de projetos, que impactem positivamente as pessoas e tornem suas vidas mais práticas."
 
